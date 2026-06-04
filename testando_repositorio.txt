@@ -7,3 +7,4 @@ fazendo alteracao direto no git para geração de conflito
 
 
 tentando simular ou conflito
+gerando um novo conflito...
