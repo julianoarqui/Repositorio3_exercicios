@@ -9,3 +9,5 @@ fazendo alteracao direto no git para geração de conflito
 tentando simular ou conflito
 
 vamos ver se vai dar certo o novo conflito
+
+mudando o descritivo do comit local
