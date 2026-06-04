@@ -2,3 +2,6 @@ gerando o repositorio no git a partir da minha maquina
 vamos ver se vai dar certo
 
 parece que deu certo e gerou o repositorio com o nome da pasta que estava na minhha maquina
+
+
+tentando simular ou conflito
