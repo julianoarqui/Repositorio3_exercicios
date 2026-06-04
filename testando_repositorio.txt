@@ -1,0 +1,2 @@
+gerando o repositorio no git a partir da minha maquina
+vamos ver se vai dar certo
