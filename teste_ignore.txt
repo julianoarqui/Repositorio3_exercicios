@@ -1,1 +1,0 @@
-o git deve ignorar esse arquivo
